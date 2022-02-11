@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    color: black;
+    background: beige;
+    text-align: center;
+}
+
+.contenido-formulario{
+    border: 1px solid white;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+}
+
+section table{
+    display: flex;
+    padding: 30px;
+}
+
+.contenido-formulario {
+    background: #00ccff;
+}
+
+.subtitle {
+    text-align: center !important;
+}
